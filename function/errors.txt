@@ -1,0 +1,5 @@
+<class 'ValueError'>
+ invalid literal for int() with base 10: 'fffffffffffffff'
+ [<FrameSummary file C:\Users\dom\Desktop\programs\pythonPr3Import\function\func.py, line 8 in run_with_log>, <FrameSummary file C:\Users\dom\Desktop\programs\pythonPr3Import\function\func.py, line 3 in func1>]<class 'ValueError'>
+ invalid literal for int() with base 10: 'fffffffffffffff'
+ [<FrameSummary file C:\Users\dom\Desktop\programs\pythonPr3Import\function\func.py, line 8 in run_with_log>, <FrameSummary file C:\Users\dom\Desktop\programs\pythonPr3Import\function\func.py, line 3 in func1>]
